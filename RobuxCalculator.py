@@ -6,7 +6,6 @@ while True:
     Robux = input("\033[1;32mRobux Amount:\033[1;36m ")
     Percent = input("\033[1;32mEnter \033[1;31m1 \033[1;32mor \033[1;31m2 \033[1;32mor \033[1;31m3\033[1;32m | 1 = [UGC], 2 = [Tshirt/shirt/pants/gamepasses/etc], 3 = [ROBUX TO USD]:\033[1;36m ")
     
-
     ChosenPercent = 0.7
     ChosenWord = "Robux after Tax Would be: "
  # chosen perecentage :)
