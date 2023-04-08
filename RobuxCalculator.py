@@ -16,7 +16,6 @@ while True:
     #normal
     if Percent == "2":
         ChosenPercent = 0.7
-
     #usd
     if Percent == "3":
         ChosenPercent = 0.0035
